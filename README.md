@@ -1,6 +1,7 @@
 "# Rutas-y-Mapas-con-Leaflet" 
 
-Ruta David, Provincia de Chiriquí a Ciudad de Panamá
+Ruta David, Provincia de Chiriquí a Ciudad de Panamá (Vía Interamericana, Carretera Panamericana
+420.1 km, 5 h 38 min)
 
 Plug-in: http://www.liedman.net/leaflet-routing-machine/tutorials/basic-usage/
 
