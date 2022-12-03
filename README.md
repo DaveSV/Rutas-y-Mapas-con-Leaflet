@@ -7,5 +7,8 @@ Leaflet Routing Machine es una forma fácil, flexible y extensible de agregar en
 
 Plug-in: http://www.liedman.net/leaflet-routing-machine/tutorials/basic-usage/
 
-![image](https://user-images.githubusercontent.com/29576337/205380974-3339ea06-38e2-4c8d-a338-44fb6abb4d16.png)
+Visible en: https://mapas.albertosaenz.com/rutas/mapaRutasLeaflet.html
+
+![image](https://user-images.githubusercontent.com/29576337/205425106-bbf7d8df-eb2d-421d-bdd4-9fe21e9a8673.png)
+
 
